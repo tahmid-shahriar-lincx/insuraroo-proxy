@@ -1,0 +1,20 @@
+{
+  "name": "insuraroo-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "eventemitter3": "^4.0.7",
+    "follow-redirects": "^1.15.9",
+    "http-proxy": "^1.18.1",
+    "requires-port": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
